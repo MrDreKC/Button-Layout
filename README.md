@@ -4,3 +4,4 @@ So the title pretty much says it all, but the short of it is I feel like I reach
 so I have begun working on my own persoanl projects to get a better understanding of coding when it comes to HTML CSS & Javascrpit. And to kick it off I started with creating some 
 simple buttons
 
+To check out the site, [click here]
